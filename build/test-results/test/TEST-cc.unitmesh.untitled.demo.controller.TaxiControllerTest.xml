@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cc.unitmesh.untitled.demo.controller.TaxiControllerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-02-22T08:55:45" hostname="qiangs-MacBook-Pro.local" time="0.119">
+  <properties/>
+  <testcase name="testCalculate_5km_noWaiting()" classname="cc.unitmesh.untitled.demo.controller.TaxiControllerTest" time="0.095"/>
+  <testcase name="testCalculate_5km_withWaiting()" classname="cc.unitmesh.untitled.demo.controller.TaxiControllerTest" time="0.003"/>
+  <testcase name="testCalculate_8km_withWaiting()" classname="cc.unitmesh.untitled.demo.controller.TaxiControllerTest" time="0.004"/>
+  <testcase name="testCalculate_8km_noWaiting()" classname="cc.unitmesh.untitled.demo.controller.TaxiControllerTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
